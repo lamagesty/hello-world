@@ -1,8 +1,8 @@
 # hello-world
 
-##Monitoramento de casos de COVID-19 no mundo.
+## Monitoramento de casos de COVID-19 no mundo.
 
-####Lucas Araujo Magesty
+#### Lucas Araujo Magesty
 
 Esse [site](https://www.worldometers.info/coronavirus) agrupa diversas informações sobre o corona vírus no mundo, fornecendo muitas análises interessantes para entender a situação em que cada país se encontra, como:
 
